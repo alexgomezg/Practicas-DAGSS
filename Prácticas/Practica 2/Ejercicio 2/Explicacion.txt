@@ -1,0 +1,5 @@
+El patrón que he utilizado es el patrón Builder, porque como se necesitan crear dos representaciones distintas he considerado que es la opción idiónea, para ello he creado la interfaz BuilderBiblioteca.
+
+Las dos implementaciones hacen lo siguiente, LibroBuilder lee los libros del archivo txt y los inserta en el contenedor Biblioteca y XMLBuilder lee del archivo txt y escribe en un archivo xml (en formato xml).
+
+ 

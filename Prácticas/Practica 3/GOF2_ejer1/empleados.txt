@@ -1,0 +1,3 @@
+JUAN	A	10	SI
+PEPE	B	25	NO
+Alex	C	25	SI

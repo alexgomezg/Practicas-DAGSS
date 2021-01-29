@@ -1,0 +1,5 @@
+Se han usado los siguientes patrones, en Logger se utiliza singleton ya que es una clase que se necesita que solo se instancie uno objeto.
+
+Tambien se implementa la interfaz observer que usa el patrón observer, en la clase operation en el método execute se utiliza el Patrón Command y en la clase Application se utiliza Factoria.
+
+Para utilizar el framework la clase principal, la operadora o la principal, según se implemente debe heredar de Application y las diferentes operaciones deben heredar de Operation.

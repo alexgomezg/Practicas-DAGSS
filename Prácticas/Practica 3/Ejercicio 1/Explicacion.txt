@@ -1,0 +1,1 @@
+Se ha aplicado el patrón Decorador ya que lo que se hace es añadir diferentes complementos o funcionalidades a la entidad Nomina, de forma dinamica se pueden aplicar diferentes bonificaciones o si fuese necesario deducciones.

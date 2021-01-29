@@ -1,0 +1,1 @@
+Se utiliza el patrón Proxy en operación de pago para restringir las operaciones a las que puede acceder un usuario que no es de pago.

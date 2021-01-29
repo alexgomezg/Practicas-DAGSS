@@ -1,0 +1,20 @@
+<libros>
+
+<libro>
+	<titulo>LIBRO</titulo>
+	<autor>AUTOR</autor>
+	<isbn>ISBN</isbn>
+</libro>
+<libro>
+	<titulo>LIBRO1</titulo>
+	<autor>AUTOR1</autor>
+	<isbn>ISBN1</isbn>
+</libro>
+<libro>
+	<titulo>LIBRO2</titulo>
+	<autor>AUTOR2</autor>
+	<isbn>ISBN2</isbn>
+</libro>
+
+
+</libros>

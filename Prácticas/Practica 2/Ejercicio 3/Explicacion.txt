@@ -1,0 +1,1 @@
+Se ha usado el patrón Composite ya que la estructura de Runnable sigue una estructura jeraquizada además, en la lógica de la aplicación existen varios tipos de trabajar (Serie y Paralelo) por tanto el patrón se aplicaría con Runnable y Trabajo, haciendo que Serie y Paralelo hereden de Trabajo.
